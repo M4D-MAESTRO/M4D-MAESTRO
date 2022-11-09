@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/M4D-MAESTRO" target="blank">
 Henrique de castro</a></h1>
-<h3 align="center">A fullstack developer under development, from &#x1F1E7; &#x1F1F7;</h3>
+<h3 align="center">A fullstack developer under development, from &#x1F1E7;&#x1F1F7;</h3>
 
 <a target="_blank" align="center">
   <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
