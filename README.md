@@ -33,8 +33,6 @@ Henrique de castro</a></h1>
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/henriquedecastro.dev/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
-			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
 		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCoEplNbqnJDNYnWuXyzDFrQ">
 				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
 		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/17wyhMIMjZjR8njHTNUu2msDM0CsbH5zD/view?usp=sharing">
