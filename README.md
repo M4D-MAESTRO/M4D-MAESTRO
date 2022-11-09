@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://github.com/M4D-MAESTRO" target="blank">
-Henrique de castro</a></h1>
+Henrique de Castro</a></h1>
 <h3 align="center">A fullstack developer under development, from &#x1F1E7;&#x1F1F7;</h3>
 
 <a target="_blank" align="center">
@@ -23,6 +23,17 @@ Henrique de castro</a></h1>
 - 📄 Know about my experiences <a href="https://drive.google.com/file/d/17wyhMIMjZjR8njHTNUu2msDM0CsbH5zD/view?usp=sharing" target="blank">Resume</a>
 <br/>
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<h2 font-weight="bold">My languages</h2>
+<table>
+  <tr>
+      <td><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" width="200"></td>
+      <td><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" width="200"></td>
+      <td><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" width="200"></td>
+      <td><img src="https://img.shields.io/badge/PLSQL-F80000?style=for-the-badge&logo=oracle&logoColor=black" width="200"></td>
+  </tr>
+
+</table>
 
 <p align="center">
 
