@@ -1,13 +1,58 @@
-### Hi, I'm Henrique de Castro!
+<h1 align="center">Hi 👋, I'm <a href="https://github.com/M4D-MAESTRO" target="blank">
+Henrique de castro</a></h1>
+<h3 align="center">A fullstack developer under development, from &#x1F1E7; &#x1F1F7;</h3>
 
-- 💻 Java and Javascript tech leader in [Ipiranga](https://portal.ipiranga/wps/portal/ipiranga/inicio)
+<a target="_blank" align="center">
+  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+</a>
+
+- 💻 I’m currently Java and Javascript tech leader in [Ipiranga](https://portal.ipiranga/wps/portal/ipiranga/inicio)
+
 - 📝 Graduated in Computer Science by [Unicarioca](https://www.unicarioca.edu.br/)
+
 - 🎓 Currently specializing in Distributed Software by [PUC](https://www.pucminas.br/main/Paginas/default.aspx)
 
-##
-  
-<div>
-  <a href = "mailto: lhccorrea@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/henriquedecastro-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/henriquedecastro.dev/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-</div>
+- 📱 I’m currently Working on Mobile App with Ionic
+
+- 😻 I’m currently learning  <a href="https://docs.nestjs.com/" target="blank">NestJS</a>
+
+- 📝 I regularly posting about my new NestJS api on [LinkedIn](https://www.linkedin.com/in/henriquedecastro-dev/)
+
+- 📫 How to reach me **lhccorrea@hotmail.com**
+
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/17wyhMIMjZjR8njHTNUu2msDM0CsbH5zD/view?usp=sharing" target="blank">Resume</a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 🤝 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/henriquedecastro-dev/">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://github.com/M4D-MAESTRO">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/henriquedecastro.dev/">
+			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://twitter.com/100rabhcsmc">
+			<img src="https://img.icons8.com/doodle/1x/twitter-squared--v2.png" ></a>
+		<a style="margin-left: 10px;" target="_blank" href="https://www.youtube.com/channel/UCoEplNbqnJDNYnWuXyzDFrQ">
+				<img src="https://img.icons8.com/doodle/1x/youtube--v2.png" ></a>
+		<a style="margin-left: 5px;" target="_blank" href="https://drive.google.com/file/d/17wyhMIMjZjR8njHTNUu2msDM0CsbH5zD/view?usp=sharing">
+					<img src="https://img.icons8.com/plasticine/0.5x/resume.png" ></a>
+      </div>
+
+</p>
+
+### Last posts
+
+<!-- Last-Posts-LIST:START -->
+
+- [NestJS and Swagger](https://www.linkedin.com/feed/update/urn:li:activity:6988941944697565184/)
+- [About my new NestJS API project](https://www.linkedin.com/feed/update/urn:li:activity:6986782866567245824/)
+<!-- Last-Posts-LIST:END -->
+
+---
+
+Template by: [Saurabh Chavan](https://github.com/100rabhcsmc)
+
+Last Edited on: 09/11/2022
